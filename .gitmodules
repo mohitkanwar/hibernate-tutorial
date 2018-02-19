@@ -1,0 +1,3 @@
+[submodule "JDBCDEMO"]
+	path = JDBCDEMO
+	url = https://github.com/mohitkanwar/JDBCDEMO
