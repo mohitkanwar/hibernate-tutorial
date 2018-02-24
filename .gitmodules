@@ -1,3 +1,6 @@
 [submodule "JDBCDEMO"]
 	path = JDBCDEMO
 	url = https://github.com/mohitkanwar/JDBCDEMO
+[submodule "HIBERNATEDEMO"]
+	path = HIBERNATEDEMO
+	url = https://github.com/mohitkanwar/HIBERNATEDEMO
